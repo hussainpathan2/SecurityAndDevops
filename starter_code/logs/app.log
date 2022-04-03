@@ -1,0 +1,228 @@
+2022-04-02 21:15:59,589 INFO com.example.demo.controllers.CartControllerTest [main] Starting CartControllerTest on PPH-LAP-01213 with PID 128612 (started by hussainbasha in /home/hussainbasha/IdeaProjects/nd035-c4-Security-and-DevOps/starter_code)
+2022-04-02 21:15:59,593 DEBUG com.example.demo.controllers.CartControllerTest [main] Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2022-04-02 21:15:59,594 INFO com.example.demo.controllers.CartControllerTest [main] The following profiles are active: test
+2022-04-02 21:16:01,798 DEBUG com.example.demo.security.JWTAuthenticationVerficationFilter [main] Filter 'JWTAuthenticationVerficationFilter' configured for use
+2022-04-02 21:16:02,284 INFO com.example.demo.controllers.CartControllerTest [main] Started CartControllerTest in 2.865 seconds (JVM running for 3.66)
+2022-04-02 21:16:02,338 INFO com.example.demo.controllers.CartControllerTest [main] Starting CartControllerTest on PPH-LAP-01213 with PID 128612 (started by hussainbasha in /home/hussainbasha/IdeaProjects/nd035-c4-Security-and-DevOps/starter_code)
+2022-04-02 21:16:02,338 DEBUG com.example.demo.controllers.CartControllerTest [main] Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2022-04-02 21:16:02,338 INFO com.example.demo.controllers.CartControllerTest [main] The following profiles are active: test
+2022-04-02 21:16:02,751 DEBUG com.example.demo.security.JWTAuthenticationVerficationFilter [main] Filter 'JWTAuthenticationVerficationFilter' configured for use
+2022-04-02 21:16:02,982 INFO com.example.demo.controllers.CartControllerTest [main] Started CartControllerTest in 0.662 seconds (JVM running for 4.357)
+2022-04-02 21:16:03,308 ERROR com.example.demo.controllers.CartController [main] user is null 
+2022-04-02 21:16:03,350 INFO com.example.demo.controllers.CartControllerTest [main] Starting CartControllerTest on PPH-LAP-01213 with PID 128612 (started by hussainbasha in /home/hussainbasha/IdeaProjects/nd035-c4-Security-and-DevOps/starter_code)
+2022-04-02 21:16:03,350 DEBUG com.example.demo.controllers.CartControllerTest [main] Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2022-04-02 21:16:03,350 INFO com.example.demo.controllers.CartControllerTest [main] The following profiles are active: test
+2022-04-02 21:16:03,690 DEBUG com.example.demo.security.JWTAuthenticationVerficationFilter [main] Filter 'JWTAuthenticationVerficationFilter' configured for use
+2022-04-02 21:16:03,890 INFO com.example.demo.controllers.CartControllerTest [main] Started CartControllerTest in 0.552 seconds (JVM running for 5.266)
+2022-04-02 21:16:04,007 INFO com.example.demo.controllers.UserController [main] created user account with the username user 
+2022-04-02 21:16:04,043 INFO com.example.demo.controllers.CartControllerTest [main] Starting CartControllerTest on PPH-LAP-01213 with PID 128612 (started by hussainbasha in /home/hussainbasha/IdeaProjects/nd035-c4-Security-and-DevOps/starter_code)
+2022-04-02 21:16:04,043 DEBUG com.example.demo.controllers.CartControllerTest [main] Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2022-04-02 21:16:04,043 INFO com.example.demo.controllers.CartControllerTest [main] The following profiles are active: test
+2022-04-02 21:16:04,340 DEBUG com.example.demo.security.JWTAuthenticationVerficationFilter [main] Filter 'JWTAuthenticationVerficationFilter' configured for use
+2022-04-02 21:16:04,529 INFO com.example.demo.controllers.CartControllerTest [main] Started CartControllerTest in 0.498 seconds (JVM running for 5.905)
+2022-04-02 21:16:04,615 INFO com.example.demo.controllers.UserController [main] created user account with the username username 
+2022-04-02 21:16:04,670 INFO com.example.demo.controllers.CartController [main] Item added to cart 
+2022-04-02 21:16:04,689 INFO com.example.demo.controllers.CartController [main] Item removed from cart 
+2022-04-02 21:16:04,723 INFO com.example.demo.controllers.CartControllerTest [main] Starting CartControllerTest on PPH-LAP-01213 with PID 128612 (started by hussainbasha in /home/hussainbasha/IdeaProjects/nd035-c4-Security-and-DevOps/starter_code)
+2022-04-02 21:16:04,723 DEBUG com.example.demo.controllers.CartControllerTest [main] Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2022-04-02 21:16:04,723 INFO com.example.demo.controllers.CartControllerTest [main] The following profiles are active: test
+2022-04-02 21:16:05,052 DEBUG com.example.demo.security.JWTAuthenticationVerficationFilter [main] Filter 'JWTAuthenticationVerficationFilter' configured for use
+2022-04-02 21:16:05,263 INFO com.example.demo.controllers.CartControllerTest [main] Started CartControllerTest in 0.551 seconds (JVM running for 6.639)
+2022-04-02 21:16:05,354 INFO com.example.demo.controllers.UserController [main] created user account with the username username 
+2022-04-02 21:16:05,369 INFO com.example.demo.controllers.CartController [main] Item added to cart 
+2022-04-02 21:16:05,397 ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper [SpringContextShutdownHook] Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-200]
+2022-04-02 21:16:05,398 ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper [SpringContextShutdownHook] Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-200]
+2022-04-02 21:16:17,977 INFO com.example.demo.controllers.ItemControllerTest [main] Starting ItemControllerTest on PPH-LAP-01213 with PID 128816 (started by hussainbasha in /home/hussainbasha/IdeaProjects/nd035-c4-Security-and-DevOps/starter_code)
+2022-04-02 21:16:17,978 DEBUG com.example.demo.controllers.ItemControllerTest [main] Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2022-04-02 21:16:17,978 INFO com.example.demo.controllers.ItemControllerTest [main] The following profiles are active: test
+2022-04-02 21:16:19,954 DEBUG com.example.demo.security.JWTAuthenticationVerficationFilter [main] Filter 'JWTAuthenticationVerficationFilter' configured for use
+2022-04-02 21:16:20,579 INFO com.example.demo.controllers.ItemControllerTest [main] Started ItemControllerTest in 2.774 seconds (JVM running for 3.466)
+2022-04-02 21:16:20,628 INFO com.example.demo.controllers.ItemControllerTest [main] Starting ItemControllerTest on PPH-LAP-01213 with PID 128816 (started by hussainbasha in /home/hussainbasha/IdeaProjects/nd035-c4-Security-and-DevOps/starter_code)
+2022-04-02 21:16:20,628 DEBUG com.example.demo.controllers.ItemControllerTest [main] Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2022-04-02 21:16:20,628 INFO com.example.demo.controllers.ItemControllerTest [main] The following profiles are active: test
+2022-04-02 21:16:21,021 DEBUG com.example.demo.security.JWTAuthenticationVerficationFilter [main] Filter 'JWTAuthenticationVerficationFilter' configured for use
+2022-04-02 21:16:21,241 INFO com.example.demo.controllers.ItemControllerTest [main] Started ItemControllerTest in 0.629 seconds (JVM running for 4.128)
+2022-04-02 21:16:21,466 INFO com.example.demo.controllers.ItemControllerTest [main] Starting ItemControllerTest on PPH-LAP-01213 with PID 128816 (started by hussainbasha in /home/hussainbasha/IdeaProjects/nd035-c4-Security-and-DevOps/starter_code)
+2022-04-02 21:16:21,466 DEBUG com.example.demo.controllers.ItemControllerTest [main] Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2022-04-02 21:16:21,466 INFO com.example.demo.controllers.ItemControllerTest [main] The following profiles are active: test
+2022-04-02 21:16:21,793 DEBUG com.example.demo.security.JWTAuthenticationVerficationFilter [main] Filter 'JWTAuthenticationVerficationFilter' configured for use
+2022-04-02 21:16:22,067 INFO com.example.demo.controllers.ItemControllerTest [main] Started ItemControllerTest in 0.613 seconds (JVM running for 4.955)
+2022-04-02 21:16:22,141 INFO com.example.demo.controllers.ItemController [main] we have found item with name Square Widget 
+2022-04-02 21:16:22,187 INFO com.example.demo.controllers.ItemControllerTest [main] Starting ItemControllerTest on PPH-LAP-01213 with PID 128816 (started by hussainbasha in /home/hussainbasha/IdeaProjects/nd035-c4-Security-and-DevOps/starter_code)
+2022-04-02 21:16:22,187 DEBUG com.example.demo.controllers.ItemControllerTest [main] Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2022-04-02 21:16:22,187 INFO com.example.demo.controllers.ItemControllerTest [main] The following profiles are active: test
+2022-04-02 21:16:22,461 DEBUG com.example.demo.security.JWTAuthenticationVerficationFilter [main] Filter 'JWTAuthenticationVerficationFilter' configured for use
+2022-04-02 21:16:22,666 INFO com.example.demo.controllers.ItemControllerTest [main] Started ItemControllerTest in 0.491 seconds (JVM running for 5.553)
+2022-04-02 21:16:22,710 INFO com.example.demo.controllers.ItemControllerTest [main] Starting ItemControllerTest on PPH-LAP-01213 with PID 128816 (started by hussainbasha in /home/hussainbasha/IdeaProjects/nd035-c4-Security-and-DevOps/starter_code)
+2022-04-02 21:16:22,710 DEBUG com.example.demo.controllers.ItemControllerTest [main] Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2022-04-02 21:16:22,710 INFO com.example.demo.controllers.ItemControllerTest [main] The following profiles are active: test
+2022-04-02 21:16:22,984 DEBUG com.example.demo.security.JWTAuthenticationVerficationFilter [main] Filter 'JWTAuthenticationVerficationFilter' configured for use
+2022-04-02 21:16:23,171 INFO com.example.demo.controllers.ItemControllerTest [main] Started ItemControllerTest in 0.472 seconds (JVM running for 6.058)
+2022-04-02 21:16:23,201 ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper [SpringContextShutdownHook] Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-200]
+2022-04-02 21:16:23,202 ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper [SpringContextShutdownHook] Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-200]
+2022-04-02 21:16:38,479 INFO com.example.demo.controllers.OrderControllerTest [main] Starting OrderControllerTest on PPH-LAP-01213 with PID 129040 (started by hussainbasha in /home/hussainbasha/IdeaProjects/nd035-c4-Security-and-DevOps/starter_code)
+2022-04-02 21:16:38,480 DEBUG com.example.demo.controllers.OrderControllerTest [main] Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2022-04-02 21:16:38,480 INFO com.example.demo.controllers.OrderControllerTest [main] The following profiles are active: test
+2022-04-02 21:16:40,381 DEBUG com.example.demo.security.JWTAuthenticationVerficationFilter [main] Filter 'JWTAuthenticationVerficationFilter' configured for use
+2022-04-02 21:16:40,907 INFO com.example.demo.controllers.OrderControllerTest [main] Started OrderControllerTest in 2.585 seconds (JVM running for 3.369)
+2022-04-02 21:16:40,951 INFO com.example.demo.controllers.OrderControllerTest [main] Starting OrderControllerTest on PPH-LAP-01213 with PID 129040 (started by hussainbasha in /home/hussainbasha/IdeaProjects/nd035-c4-Security-and-DevOps/starter_code)
+2022-04-02 21:16:40,951 DEBUG com.example.demo.controllers.OrderControllerTest [main] Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2022-04-02 21:16:40,951 INFO com.example.demo.controllers.OrderControllerTest [main] The following profiles are active: test
+2022-04-02 21:16:41,283 DEBUG com.example.demo.security.JWTAuthenticationVerficationFilter [main] Filter 'JWTAuthenticationVerficationFilter' configured for use
+2022-04-02 21:16:41,493 INFO com.example.demo.controllers.OrderControllerTest [main] Started OrderControllerTest in 0.555 seconds (JVM running for 3.955)
+2022-04-02 21:16:41,762 INFO com.example.demo.controllers.UserController [main] created user account with the username username 
+2022-04-02 21:16:41,881 INFO com.example.demo.controllers.CartController [main] Item added to cart 
+2022-04-02 21:16:41,900 DEBUG com.example.demo.controllers.OrderController [main] order going to submit is com.example.demo.model.persistence.UserOrder@7b1a9ab3 
+2022-04-02 21:16:41,900 INFO com.example.demo.controllers.OrderController [main] order has been saved successfully 
+2022-04-02 21:16:41,907 INFO com.example.demo.controllers.OrderController [main] Getting all the orders for the user with username username 
+2022-04-02 21:16:41,947 INFO com.example.demo.controllers.OrderControllerTest [main] Starting OrderControllerTest on PPH-LAP-01213 with PID 129040 (started by hussainbasha in /home/hussainbasha/IdeaProjects/nd035-c4-Security-and-DevOps/starter_code)
+2022-04-02 21:16:41,947 DEBUG com.example.demo.controllers.OrderControllerTest [main] Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2022-04-02 21:16:41,947 INFO com.example.demo.controllers.OrderControllerTest [main] The following profiles are active: test
+2022-04-02 21:16:42,267 DEBUG com.example.demo.security.JWTAuthenticationVerficationFilter [main] Filter 'JWTAuthenticationVerficationFilter' configured for use
+2022-04-02 21:16:42,445 INFO com.example.demo.controllers.OrderControllerTest [main] Started OrderControllerTest in 0.51 seconds (JVM running for 4.907)
+2022-04-02 21:16:42,534 INFO com.example.demo.controllers.UserController [main] created user account with the username username 
+2022-04-02 21:16:42,545 INFO com.example.demo.controllers.CartController [main] Item added to cart 
+2022-04-02 21:16:42,558 DEBUG com.example.demo.controllers.OrderController [main] order going to submit is com.example.demo.model.persistence.UserOrder@3b802baa 
+2022-04-02 21:16:42,558 INFO com.example.demo.controllers.OrderController [main] order has been saved successfully 
+2022-04-02 21:16:42,575 ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper [SpringContextShutdownHook] Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-200]
+2022-04-02 21:16:42,575 ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper [SpringContextShutdownHook] Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-200]
+2022-04-02 21:16:54,619 INFO com.example.demo.controllers.UserControllerTest [main] Starting UserControllerTest on PPH-LAP-01213 with PID 129211 (started by hussainbasha in /home/hussainbasha/IdeaProjects/nd035-c4-Security-and-DevOps/starter_code)
+2022-04-02 21:16:54,620 DEBUG com.example.demo.controllers.UserControllerTest [main] Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2022-04-02 21:16:54,621 INFO com.example.demo.controllers.UserControllerTest [main] No active profile set, falling back to default profiles: default
+2022-04-02 21:16:56,708 DEBUG com.example.demo.security.JWTAuthenticationVerficationFilter [main] Filter 'JWTAuthenticationVerficationFilter' configured for use
+2022-04-02 21:16:57,356 INFO com.example.demo.controllers.UserControllerTest [main] Started UserControllerTest in 2.939 seconds (JVM running for 3.739)
+2022-04-02 21:16:57,426 INFO com.example.demo.controllers.UserControllerTest [main] Starting UserControllerTest on PPH-LAP-01213 with PID 129211 (started by hussainbasha in /home/hussainbasha/IdeaProjects/nd035-c4-Security-and-DevOps/starter_code)
+2022-04-02 21:16:57,426 DEBUG com.example.demo.controllers.UserControllerTest [main] Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2022-04-02 21:16:57,427 INFO com.example.demo.controllers.UserControllerTest [main] No active profile set, falling back to default profiles: default
+2022-04-02 21:16:57,898 DEBUG com.example.demo.security.JWTAuthenticationVerficationFilter [main] Filter 'JWTAuthenticationVerficationFilter' configured for use
+2022-04-02 21:16:58,220 INFO com.example.demo.controllers.UserControllerTest [main] Started UserControllerTest in 0.82 seconds (JVM running for 4.602)
+2022-04-02 21:16:58,553 ERROR com.example.demo.controllers.UserController [main] We are unable to find the user with username wrong 
+2022-04-02 21:16:58,652 INFO com.example.demo.controllers.UserControllerTest [main] Starting UserControllerTest on PPH-LAP-01213 with PID 129211 (started by hussainbasha in /home/hussainbasha/IdeaProjects/nd035-c4-Security-and-DevOps/starter_code)
+2022-04-02 21:16:58,652 DEBUG com.example.demo.controllers.UserControllerTest [main] Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2022-04-02 21:16:58,652 INFO com.example.demo.controllers.UserControllerTest [main] No active profile set, falling back to default profiles: default
+2022-04-02 21:16:59,112 DEBUG com.example.demo.security.JWTAuthenticationVerficationFilter [main] Filter 'JWTAuthenticationVerficationFilter' configured for use
+2022-04-02 21:16:59,307 INFO com.example.demo.controllers.UserControllerTest [main] Started UserControllerTest in 0.675 seconds (JVM running for 5.69)
+2022-04-02 21:16:59,450 INFO com.example.demo.controllers.UserController [main] created user account with the username username2 
+2022-04-02 21:16:59,505 INFO com.example.demo.controllers.UserControllerTest [main] Starting UserControllerTest on PPH-LAP-01213 with PID 129211 (started by hussainbasha in /home/hussainbasha/IdeaProjects/nd035-c4-Security-and-DevOps/starter_code)
+2022-04-02 21:16:59,505 DEBUG com.example.demo.controllers.UserControllerTest [main] Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2022-04-02 21:16:59,505 INFO com.example.demo.controllers.UserControllerTest [main] No active profile set, falling back to default profiles: default
+2022-04-02 21:17:00,056 DEBUG com.example.demo.security.JWTAuthenticationVerficationFilter [main] Filter 'JWTAuthenticationVerficationFilter' configured for use
+2022-04-02 21:17:00,394 INFO com.example.demo.controllers.UserControllerTest [main] Started UserControllerTest in 0.917 seconds (JVM running for 6.776)
+2022-04-02 21:17:00,491 INFO com.example.demo.controllers.UserController [main] created user account with the username username 
+2022-04-02 21:17:00,550 INFO com.example.demo.controllers.UserControllerTest [main] Starting UserControllerTest on PPH-LAP-01213 with PID 129211 (started by hussainbasha in /home/hussainbasha/IdeaProjects/nd035-c4-Security-and-DevOps/starter_code)
+2022-04-02 21:17:00,550 DEBUG com.example.demo.controllers.UserControllerTest [main] Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2022-04-02 21:17:00,550 INFO com.example.demo.controllers.UserControllerTest [main] No active profile set, falling back to default profiles: default
+2022-04-02 21:17:01,204 DEBUG com.example.demo.security.JWTAuthenticationVerficationFilter [main] Filter 'JWTAuthenticationVerficationFilter' configured for use
+2022-04-02 21:17:01,570 INFO com.example.demo.controllers.UserControllerTest [main] Started UserControllerTest in 1.044 seconds (JVM running for 7.953)
+2022-04-02 21:17:01,670 INFO com.example.demo.controllers.UserController [main] created user account with the username username1 
+2022-04-02 21:17:01,738 INFO com.example.demo.controllers.UserControllerTest [main] Starting UserControllerTest on PPH-LAP-01213 with PID 129211 (started by hussainbasha in /home/hussainbasha/IdeaProjects/nd035-c4-Security-and-DevOps/starter_code)
+2022-04-02 21:17:01,739 DEBUG com.example.demo.controllers.UserControllerTest [main] Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2022-04-02 21:17:01,739 INFO com.example.demo.controllers.UserControllerTest [main] No active profile set, falling back to default profiles: default
+2022-04-02 21:17:02,155 DEBUG com.example.demo.security.JWTAuthenticationVerficationFilter [main] Filter 'JWTAuthenticationVerficationFilter' configured for use
+2022-04-02 21:17:02,368 INFO com.example.demo.controllers.UserControllerTest [main] Started UserControllerTest in 0.661 seconds (JVM running for 8.751)
+2022-04-02 21:17:02,390 ERROR com.example.demo.controllers.UserController [main] Error - Either length is less than 7 or pass and conf pass do not match. Unable to create 
+2022-04-02 21:17:02,444 INFO com.example.demo.controllers.UserControllerTest [main] Starting UserControllerTest on PPH-LAP-01213 with PID 129211 (started by hussainbasha in /home/hussainbasha/IdeaProjects/nd035-c4-Security-and-DevOps/starter_code)
+2022-04-02 21:17:02,445 DEBUG com.example.demo.controllers.UserControllerTest [main] Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2022-04-02 21:17:02,445 INFO com.example.demo.controllers.UserControllerTest [main] No active profile set, falling back to default profiles: default
+2022-04-02 21:17:02,900 DEBUG com.example.demo.security.JWTAuthenticationVerficationFilter [main] Filter 'JWTAuthenticationVerficationFilter' configured for use
+2022-04-02 21:17:03,170 INFO com.example.demo.controllers.UserControllerTest [main] Started UserControllerTest in 0.753 seconds (JVM running for 9.553)
+2022-04-02 21:17:03,178 ERROR com.example.demo.controllers.UserController [main] Error - Either length is less than 7 or pass and conf pass do not match. Unable to create 
+2022-04-02 21:57:34,672 INFO com.example.demo.controllers.CartControllerTest [main] Starting CartControllerTest on PPH-LAP-01213 with PID 139640 (started by hussainbasha in /home/hussainbasha/IdeaProjects/nd035-c4-Security-and-DevOps/starter_code)
+2022-04-02 21:57:34,673 DEBUG com.example.demo.controllers.CartControllerTest [main] Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2022-04-02 21:57:34,674 INFO com.example.demo.controllers.CartControllerTest [main] The following profiles are active: test
+2022-04-02 21:57:36,333 DEBUG com.example.demo.security.JWTAuthenticationVerficationFilter [main] Filter 'JWTAuthenticationVerficationFilter' configured for use
+2022-04-02 21:57:36,781 INFO com.example.demo.controllers.CartControllerTest [main] Started CartControllerTest in 2.27 seconds (JVM running for 2.967)
+2022-04-02 21:57:36,822 INFO com.example.demo.controllers.CartControllerTest [main] Starting CartControllerTest on PPH-LAP-01213 with PID 139640 (started by hussainbasha in /home/hussainbasha/IdeaProjects/nd035-c4-Security-and-DevOps/starter_code)
+2022-04-02 21:57:36,822 DEBUG com.example.demo.controllers.CartControllerTest [main] Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2022-04-02 21:57:36,822 INFO com.example.demo.controllers.CartControllerTest [main] The following profiles are active: test
+2022-04-02 21:57:37,147 DEBUG com.example.demo.security.JWTAuthenticationVerficationFilter [main] Filter 'JWTAuthenticationVerficationFilter' configured for use
+2022-04-02 21:57:37,367 INFO com.example.demo.controllers.CartControllerTest [main] Started CartControllerTest in 0.558 seconds (JVM running for 3.554)
+2022-04-02 21:57:37,588 ERROR com.example.demo.controllers.CartController [main] user is null 
+2022-04-02 21:57:37,636 INFO com.example.demo.controllers.CartControllerTest [main] Starting CartControllerTest on PPH-LAP-01213 with PID 139640 (started by hussainbasha in /home/hussainbasha/IdeaProjects/nd035-c4-Security-and-DevOps/starter_code)
+2022-04-02 21:57:37,636 DEBUG com.example.demo.controllers.CartControllerTest [main] Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2022-04-02 21:57:37,636 INFO com.example.demo.controllers.CartControllerTest [main] The following profiles are active: test
+2022-04-02 21:57:37,937 DEBUG com.example.demo.security.JWTAuthenticationVerficationFilter [main] Filter 'JWTAuthenticationVerficationFilter' configured for use
+2022-04-02 21:57:38,111 INFO com.example.demo.controllers.CartControllerTest [main] Started CartControllerTest in 0.493 seconds (JVM running for 4.298)
+2022-04-02 21:57:38,214 INFO com.example.demo.controllers.UserController [main] created user account with the username user 
+2022-04-02 21:57:38,246 INFO com.example.demo.controllers.CartControllerTest [main] Starting CartControllerTest on PPH-LAP-01213 with PID 139640 (started by hussainbasha in /home/hussainbasha/IdeaProjects/nd035-c4-Security-and-DevOps/starter_code)
+2022-04-02 21:57:38,246 DEBUG com.example.demo.controllers.CartControllerTest [main] Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2022-04-02 21:57:38,246 INFO com.example.demo.controllers.CartControllerTest [main] The following profiles are active: test
+2022-04-02 21:57:38,492 DEBUG com.example.demo.security.JWTAuthenticationVerficationFilter [main] Filter 'JWTAuthenticationVerficationFilter' configured for use
+2022-04-02 21:57:38,634 INFO com.example.demo.controllers.CartControllerTest [main] Started CartControllerTest in 0.398 seconds (JVM running for 4.82)
+2022-04-02 21:57:38,713 INFO com.example.demo.controllers.UserController [main] created user account with the username username 
+2022-04-02 21:57:38,745 INFO com.example.demo.controllers.CartController [main] Item added to cart 
+2022-04-02 21:57:38,758 INFO com.example.demo.controllers.CartController [main] Item removed from cart 
+2022-04-02 21:57:38,790 INFO com.example.demo.controllers.CartControllerTest [main] Starting CartControllerTest on PPH-LAP-01213 with PID 139640 (started by hussainbasha in /home/hussainbasha/IdeaProjects/nd035-c4-Security-and-DevOps/starter_code)
+2022-04-02 21:57:38,790 DEBUG com.example.demo.controllers.CartControllerTest [main] Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2022-04-02 21:57:38,790 INFO com.example.demo.controllers.CartControllerTest [main] The following profiles are active: test
+2022-04-02 21:57:39,007 DEBUG com.example.demo.security.JWTAuthenticationVerficationFilter [main] Filter 'JWTAuthenticationVerficationFilter' configured for use
+2022-04-02 21:57:39,144 INFO com.example.demo.controllers.CartControllerTest [main] Started CartControllerTest in 0.365 seconds (JVM running for 5.331)
+2022-04-02 21:57:39,221 INFO com.example.demo.controllers.UserController [main] created user account with the username username 
+2022-04-02 21:57:39,230 INFO com.example.demo.controllers.CartController [main] Item added to cart 
+2022-04-02 21:57:39,246 ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper [SpringContextShutdownHook] Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-200]
+2022-04-02 21:57:39,246 ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper [SpringContextShutdownHook] Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-200]
+2022-04-02 21:57:47,627 INFO com.example.demo.controllers.ItemControllerTest [main] Starting ItemControllerTest on PPH-LAP-01213 with PID 139931 (started by hussainbasha in /home/hussainbasha/IdeaProjects/nd035-c4-Security-and-DevOps/starter_code)
+2022-04-02 21:57:47,629 DEBUG com.example.demo.controllers.ItemControllerTest [main] Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2022-04-02 21:57:47,630 INFO com.example.demo.controllers.ItemControllerTest [main] The following profiles are active: test
+2022-04-02 21:57:49,619 DEBUG com.example.demo.security.JWTAuthenticationVerficationFilter [main] Filter 'JWTAuthenticationVerficationFilter' configured for use
+2022-04-02 21:57:50,168 INFO com.example.demo.controllers.ItemControllerTest [main] Started ItemControllerTest in 2.718 seconds (JVM running for 3.418)
+2022-04-02 21:57:50,223 INFO com.example.demo.controllers.ItemControllerTest [main] Starting ItemControllerTest on PPH-LAP-01213 with PID 139931 (started by hussainbasha in /home/hussainbasha/IdeaProjects/nd035-c4-Security-and-DevOps/starter_code)
+2022-04-02 21:57:50,223 DEBUG com.example.demo.controllers.ItemControllerTest [main] Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2022-04-02 21:57:50,224 INFO com.example.demo.controllers.ItemControllerTest [main] The following profiles are active: test
+2022-04-02 21:57:50,643 DEBUG com.example.demo.security.JWTAuthenticationVerficationFilter [main] Filter 'JWTAuthenticationVerficationFilter' configured for use
+2022-04-02 21:57:50,864 INFO com.example.demo.controllers.ItemControllerTest [main] Started ItemControllerTest in 0.661 seconds (JVM running for 4.114)
+2022-04-02 21:57:51,079 INFO com.example.demo.controllers.ItemControllerTest [main] Starting ItemControllerTest on PPH-LAP-01213 with PID 139931 (started by hussainbasha in /home/hussainbasha/IdeaProjects/nd035-c4-Security-and-DevOps/starter_code)
+2022-04-02 21:57:51,079 DEBUG com.example.demo.controllers.ItemControllerTest [main] Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2022-04-02 21:57:51,079 INFO com.example.demo.controllers.ItemControllerTest [main] The following profiles are active: test
+2022-04-02 21:57:51,371 DEBUG com.example.demo.security.JWTAuthenticationVerficationFilter [main] Filter 'JWTAuthenticationVerficationFilter' configured for use
+2022-04-02 21:57:51,582 INFO com.example.demo.controllers.ItemControllerTest [main] Started ItemControllerTest in 0.519 seconds (JVM running for 4.832)
+2022-04-02 21:57:51,682 INFO com.example.demo.controllers.ItemController [main] we have found item with name Square Widget 
+2022-04-02 21:57:51,732 INFO com.example.demo.controllers.ItemControllerTest [main] Starting ItemControllerTest on PPH-LAP-01213 with PID 139931 (started by hussainbasha in /home/hussainbasha/IdeaProjects/nd035-c4-Security-and-DevOps/starter_code)
+2022-04-02 21:57:51,732 DEBUG com.example.demo.controllers.ItemControllerTest [main] Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2022-04-02 21:57:51,733 INFO com.example.demo.controllers.ItemControllerTest [main] The following profiles are active: test
+2022-04-02 21:57:52,112 DEBUG com.example.demo.security.JWTAuthenticationVerficationFilter [main] Filter 'JWTAuthenticationVerficationFilter' configured for use
+2022-04-02 21:57:52,323 INFO com.example.demo.controllers.ItemControllerTest [main] Started ItemControllerTest in 0.608 seconds (JVM running for 5.573)
+2022-04-02 21:57:52,375 INFO com.example.demo.controllers.ItemControllerTest [main] Starting ItemControllerTest on PPH-LAP-01213 with PID 139931 (started by hussainbasha in /home/hussainbasha/IdeaProjects/nd035-c4-Security-and-DevOps/starter_code)
+2022-04-02 21:57:52,375 DEBUG com.example.demo.controllers.ItemControllerTest [main] Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2022-04-02 21:57:52,376 INFO com.example.demo.controllers.ItemControllerTest [main] The following profiles are active: test
+2022-04-02 21:57:52,686 DEBUG com.example.demo.security.JWTAuthenticationVerficationFilter [main] Filter 'JWTAuthenticationVerficationFilter' configured for use
+2022-04-02 21:57:52,872 INFO com.example.demo.controllers.ItemControllerTest [main] Started ItemControllerTest in 0.515 seconds (JVM running for 6.122)
+2022-04-02 21:57:52,895 ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper [SpringContextShutdownHook] Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-200]
+2022-04-02 21:57:52,895 ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper [SpringContextShutdownHook] Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-200]
+2022-04-02 21:58:01,072 INFO com.example.demo.controllers.OrderControllerTest [main] Starting OrderControllerTest on PPH-LAP-01213 with PID 140156 (started by hussainbasha in /home/hussainbasha/IdeaProjects/nd035-c4-Security-and-DevOps/starter_code)
+2022-04-02 21:58:01,073 DEBUG com.example.demo.controllers.OrderControllerTest [main] Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2022-04-02 21:58:01,073 INFO com.example.demo.controllers.OrderControllerTest [main] The following profiles are active: test
+2022-04-02 21:58:03,162 DEBUG com.example.demo.security.JWTAuthenticationVerficationFilter [main] Filter 'JWTAuthenticationVerficationFilter' configured for use
+2022-04-02 21:58:03,778 INFO com.example.demo.controllers.OrderControllerTest [main] Started OrderControllerTest in 2.869 seconds (JVM running for 3.577)
+2022-04-02 21:58:03,846 INFO com.example.demo.controllers.OrderControllerTest [main] Starting OrderControllerTest on PPH-LAP-01213 with PID 140156 (started by hussainbasha in /home/hussainbasha/IdeaProjects/nd035-c4-Security-and-DevOps/starter_code)
+2022-04-02 21:58:03,846 DEBUG com.example.demo.controllers.OrderControllerTest [main] Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2022-04-02 21:58:03,846 INFO com.example.demo.controllers.OrderControllerTest [main] The following profiles are active: test
+2022-04-02 21:58:04,333 DEBUG com.example.demo.security.JWTAuthenticationVerficationFilter [main] Filter 'JWTAuthenticationVerficationFilter' configured for use
+2022-04-02 21:58:04,565 INFO com.example.demo.controllers.OrderControllerTest [main] Started OrderControllerTest in 0.742 seconds (JVM running for 4.364)
+2022-04-02 21:58:04,823 INFO com.example.demo.controllers.UserController [main] created user account with the username username 
+2022-04-02 21:58:04,946 INFO com.example.demo.controllers.CartController [main] Item added to cart 
+2022-04-02 21:58:04,970 DEBUG com.example.demo.controllers.OrderController [main] order going to submit is com.example.demo.model.persistence.UserOrder@2ecb87b2 
+2022-04-02 21:58:04,970 INFO com.example.demo.controllers.OrderController [main] order has been saved successfully 
+2022-04-02 21:58:04,978 INFO com.example.demo.controllers.OrderController [main] Getting all the orders for the user with username username 
+2022-04-02 21:58:05,031 INFO com.example.demo.controllers.OrderControllerTest [main] Starting OrderControllerTest on PPH-LAP-01213 with PID 140156 (started by hussainbasha in /home/hussainbasha/IdeaProjects/nd035-c4-Security-and-DevOps/starter_code)
+2022-04-02 21:58:05,031 DEBUG com.example.demo.controllers.OrderControllerTest [main] Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2022-04-02 21:58:05,031 INFO com.example.demo.controllers.OrderControllerTest [main] The following profiles are active: test
+2022-04-02 21:58:05,421 DEBUG com.example.demo.security.JWTAuthenticationVerficationFilter [main] Filter 'JWTAuthenticationVerficationFilter' configured for use
+2022-04-02 21:58:05,612 INFO com.example.demo.controllers.OrderControllerTest [main] Started OrderControllerTest in 0.6 seconds (JVM running for 5.411)
+2022-04-02 21:58:05,697 INFO com.example.demo.controllers.UserController [main] created user account with the username username 
+2022-04-02 21:58:05,709 INFO com.example.demo.controllers.CartController [main] Item added to cart 
+2022-04-02 21:58:05,721 DEBUG com.example.demo.controllers.OrderController [main] order going to submit is com.example.demo.model.persistence.UserOrder@58192546 
+2022-04-02 21:58:05,721 INFO com.example.demo.controllers.OrderController [main] order has been saved successfully 
+2022-04-02 21:58:05,742 ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper [SpringContextShutdownHook] Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-200]
+2022-04-02 21:58:05,743 ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper [SpringContextShutdownHook] Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-200]
+2022-04-02 21:58:15,096 INFO com.example.demo.controllers.UserControllerTest [main] Starting UserControllerTest on PPH-LAP-01213 with PID 140323 (started by hussainbasha in /home/hussainbasha/IdeaProjects/nd035-c4-Security-and-DevOps/starter_code)
+2022-04-02 21:58:15,097 DEBUG com.example.demo.controllers.UserControllerTest [main] Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2022-04-02 21:58:15,098 INFO com.example.demo.controllers.UserControllerTest [main] No active profile set, falling back to default profiles: default
+2022-04-02 21:58:17,512 DEBUG com.example.demo.security.JWTAuthenticationVerficationFilter [main] Filter 'JWTAuthenticationVerficationFilter' configured for use
+2022-04-02 21:58:18,125 INFO com.example.demo.controllers.UserControllerTest [main] Started UserControllerTest in 3.214 seconds (JVM running for 3.993)
+2022-04-02 21:58:18,177 INFO com.example.demo.controllers.UserControllerTest [main] Starting UserControllerTest on PPH-LAP-01213 with PID 140323 (started by hussainbasha in /home/hussainbasha/IdeaProjects/nd035-c4-Security-and-DevOps/starter_code)
+2022-04-02 21:58:18,178 DEBUG com.example.demo.controllers.UserControllerTest [main] Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2022-04-02 21:58:18,178 INFO com.example.demo.controllers.UserControllerTest [main] No active profile set, falling back to default profiles: default
+2022-04-02 21:58:18,797 DEBUG com.example.demo.security.JWTAuthenticationVerficationFilter [main] Filter 'JWTAuthenticationVerficationFilter' configured for use
+2022-04-02 21:58:19,063 INFO com.example.demo.controllers.UserControllerTest [main] Started UserControllerTest in 0.902 seconds (JVM running for 4.931)
+2022-04-02 21:58:19,338 INFO com.example.demo.controllers.UserController [main] created user account with the username username 
